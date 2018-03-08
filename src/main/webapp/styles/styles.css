@@ -1,0 +1,13 @@
+
+
+.container{
+    margin-top: 30px;
+
+}
+
+.card-img-top {
+    border-image-width: 20px;
+}
+.card-text{
+    color:black;
+}
